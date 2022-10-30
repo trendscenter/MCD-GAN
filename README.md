@@ -33,4 +33,4 @@ Visulizing results
 ```sh
 python demo_visualize.py
 ```
-![](.code/result/Picture1.png)
+![Methods Comparison](./code/result/Picture1.png)

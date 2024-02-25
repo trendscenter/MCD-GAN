@@ -4,7 +4,9 @@ Multi-site collaboration is essential for overcoming the small-sample problems i
 
 For any question or comments please contact Weizheng Yan (conanywz@gmail.com), Vince Calhoun (vcalhoun@gsu.edu) or Cyrus Eierud (ceierud@gsu.edu)
 
-Please also cite: "W. Yan, Z. Fu, J. Sui and V. D. Calhoun, "‘Harmless’ adversarial network harmonization approach for removing site effects and improving reproducibility in neuroimaging studies," 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2022, pp. 1859-1862, doi: 10.1109/EMBC48229.2022.9871061."
+Please cite: "Yan, W., Fu, Z., Jiang, R., Sui, J., & Calhoun, V. D. (2023). Maximum Classifier Discrepancy Generative Adversarial Network for Jointly Harmonizing Scanner Effects and Improving Reproducibility of Downstream Tasks. IEEE Transactions on Biomedical Engineering, 1-9. https://doi.org/10.1109/TBME.2023.3330087".
+or cite: "Yan, W., Fu, Z., Sui, J., & Calhoun, V. D. (2022, 11-15 July 2022). ‘Harmless’ adversarial network harmonization approach for removing site effects and improving reproducibility in neuroimaging studies. 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)"
+
 
 
 ## Run the code base

@@ -26,7 +26,7 @@ python main_demo.py  -harmony_mode=ComBat  -feature_name=Demo --harmony_retrain=
 ```
 Run CycleGAN:
 ```sh
-python main_demo.py  -harmony_mode=ComBat  -feature_name=Demo --harmony_retrain=1
+python main_demo.py  -harmony_mode=CycleGAN  -feature_name=Demo --harmony_retrain=1
 ```
 Run MCD-GAN:
 ```sh
